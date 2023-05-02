@@ -59,7 +59,7 @@ public class Turma {
 				alunos[i] = alunoAlterado;
 				return true;
 			}
-		}
+		}//da só para pegar o obj e alterar o nome
 		return false;
 	}
 	

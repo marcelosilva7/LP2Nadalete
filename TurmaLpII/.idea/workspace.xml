@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf6ac3be-3c5a-430c-9079-193b78970ccf" name="Changes" comment="" />
+    <list default="true" id="bf6ac3be-3c5a-430c-9079-193b78970ccf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Prova/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/src/ExecString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/fatec/lp2/entidades/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/fatec/lp2/entidades/Turma.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Oqtjv2cH6BipXyz8iofauZy9Og" />
   <component name="ProjectViewState">
@@ -17,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/marce/Downloads/TurmaLpII",
+    "last_opened_file_path": "C:/Users/Marcelo/Documents/GitHub/LP2Nadalete/TurmaLpII",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -30,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682300077507</updated>
       <workItem from="1682300078620" duration="11000" />
+      <workItem from="1682472933738" duration="286000" />
     </task>
     <servers />
   </component>
